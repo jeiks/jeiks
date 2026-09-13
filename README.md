@@ -15,7 +15,7 @@ It is the knowledge it gives back.
 
 Free Software allows us to understand, experiment, modify, improve and share. It transforms users into learners, learners into developers and developers into communities. It gives us the opportunity to evolve.
 
-This idea has guided my work in GNU/Linux, Computer Security, Digital Forensics, Artificial Intelligence and, more recently, Large Language Models (LLMs).
+This idea has guided my work in GNU/Linux, Computer Security, Digital Forensics, Artificial Intelligence, Machine Learning and, more recently, Deep Learning -- Convolutional Neural Networks and Large Language Models (LLMs).
 
 Whether developing research, teaching undergraduate students or building social impact projects, my goal remains the same:
 
